@@ -1,0 +1,36 @@
+
+.searchDesign{
+
+    height: 100vh;
+    width: 100vw;
+
+    background-color: lightslategray;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+.moviesContainer {
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.filmDesign {
+
+    margin: 1em;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.posterDesign {
+    height: 5em;
+}
